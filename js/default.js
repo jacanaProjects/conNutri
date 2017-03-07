@@ -1,7 +1,8 @@
 var largura;
 var altura;
 
-window.setTimeout("setSizeScreem()",1000);
+//window.setTimeout("setSizeScreem()",1000);
+setSizeScreem();
 
 function setSizeScreem(){
 	largura = window.innerWidth;
