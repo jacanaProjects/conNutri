@@ -1,0 +1,9 @@
+<?php
+	include "../Control/controller_interface.php";
+	$controller_interface = new controller_interface;
+	if((isset($_REQUEST["hControle"]))&&($_REQUEST["hControle"]<>NULL)){
+		echo "<script>alert('FUNFOOOOOO')</script>";
+	}
+	
+	echo $controller_interface->get_html();
+?>

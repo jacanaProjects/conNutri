@@ -1,0 +1,29 @@
+#cabecalho{
+	margin-top: -0.5%;
+	margin-left: -0.5%;
+	margin-right: -0.5%;
+	position: relative;
+	width: 100.7%;
+	height: 30%;
+	float: left;
+}
+
+#menu{
+/*	margin-top: -0.5%;*/
+	margin-left: -0.5%;
+/*	margin-right: -0.5%;*/
+	position: relative;
+	width: 26%;
+	height: 69%;
+	float: left;
+}
+
+#conteudo{
+/*	margin-top: -0.5%;*/
+/*	margin-left: -0.5%;*/
+	margin-right: -0.5%;
+	position: relative;
+	width: 74%;
+	height: 69%;
+	float: right;
+}
