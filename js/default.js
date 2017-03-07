@@ -1,3 +1,6 @@
+var largura;
+var altura;
+
 window.setTimeout("setSizeScreem()",1000);
 
 function setSizeScreem(){
